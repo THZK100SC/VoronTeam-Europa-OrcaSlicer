@@ -15,6 +15,7 @@
     "top_surface_line_width": "0.52",
     "compatible_printers": [
         "Voron 0.1 0.5 nozzle",
+		"Voron 0.2 0.5 nozzle",
         "Voron 2.4 250 0.5 nozzle",
         "Voron 2.4 300 0.5 nozzle",
         "Voron 2.4 350 0.5 nozzle",
