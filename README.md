@@ -43,6 +43,10 @@ Restartujte nebo spusťte OrcaSlicer.
 > There are several ways to download files. This was just one of them. 
 > Existuje i více možností jak stáhnout soubory. Toto byla pouze jedna z nich. 
 
+## Guide to creating a profile
+
+[Guide: Develop Profiles for OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer/wiki/How-to-create-profiles?utm_source=chatgpt.com)
+
 ## Authors | Autoři
 
 - [@THZK100SC](https://github.com/THZK100SC)
