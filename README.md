@@ -11,6 +11,7 @@ Toto je repozitář VoronTeam-Europe v češtině a angličtině, jehož hlavní
 - Change of image `_cover.png` for Voron 0.1
 - Fixed `setting_id` for printer nozzles
 - Fixed `printer_variant`
+- Voron 0.2 printer added
 
 ## Installation into Orca Slicer
 
