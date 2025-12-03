@@ -2,8 +2,15 @@
 
 This is the VoronTeam-Europe repository in Czech and English, whose main purpose is to improve work in OrcaSlicer.
 
+|
 
 Toto je repozitář VoronTeam-Europe v češtině a angličtině, jehož hlavním účelem je zlepšit práci v OrcaSlicer.
+
+## Improvement | Zlepšení
+
+- Change of image `_cover.png` for Voron 0.1
+- Fixed `setting_id` for printer nozzles
+- Fixed `printer_variant`
 
 ## Installation into Orca Slicer
 
@@ -17,6 +24,7 @@ Copy the Voron folder and the Voron.json file to the installation directory `res
 
 Example for Windows: `C:\Program Files\OrcaSlicer\resources\profiles\`
 
+|
 
 Složku Voron a soubor Voron.json zkopírovat do instalačního adresáře `resources\profiles\`.
 
@@ -26,6 +34,7 @@ Příklad pro Windows: `C:\Program Files\OrcaSlicer\resources\profiles\`
 
 Restart or just run OrcaSlicer.
 
+|
 
 Restartujte nebo spusťte OrcaSlicer.
 
